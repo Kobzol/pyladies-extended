@@ -4,3 +4,5 @@ matplotlib>=3
 imageio==2.9.0
 pandas==1.2.3
 seaborn==0.11.1
+pyright==1.6.0
+beartype==0.12.0
